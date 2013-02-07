@@ -6,9 +6,9 @@ how to run it:
 
 copy this file to metasploit directory and run it like
 
-´´´´
+````
 ./meta-x-ids.rb RHOST=127.0.0.1 RPORT=80
-´´´´
+````
 
 where the RHOST is a destiny host. I work together with the excelent inetsim http://www.inetsim.org.
 
@@ -25,12 +25,16 @@ make sure that both are in the same repo, run bundle install at both
 
 MY ~/.jrubyrc:
 
-´´´´
-
+````
 compat.version=1.9
 cext.enabled=true
 
-´´´´
+````
 
+
+TODO: 
+
+* Based on previous sessions, run just the combination exploit and payload that already worked
+* Are we running just remote exploits?!
 
 
