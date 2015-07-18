@@ -1,4 +1,6 @@
-Test your IDS/IPS with metasploit
+# Test your IDS/IPS with metasploit
+
+## Status: Unmaintained. Some metasploit apis changed. 
 
 Metasploit is great, so lets use it to test our ips.
 
